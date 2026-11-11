@@ -1,0 +1,48 @@
+{
+	#UAF Custom Tailored Ranks and Posts
+	"ranks":{
+		# Queen
+		"uaf_queen_of_yuria":{"name":"유리아 여왕"},
+		# Robo Queen
+		"uaf_artificial_queen":{"name":"기계 여왕"},
+		# Administrator
+		"uaf_auroran_administrator":{"name":"오로라 행정관"},
+		# Misc
+		"uaf_captain_yamazaki":{"name":"선장"},
+		"uaf_pilot_yimie":{"name":"중위"},
+		"uaf_researcher":{"name":"오로라 연구원"},
+		"uaf_admiral_solvy":{"name":"명예 제독"},
+		"uaf_admiral":{"name":"제독"},
+		"uaf_rear_admiral":{"name":"해군 소장"},
+		"uaf_vice_admiral":{"name":"해군 중장"},
+		"uaf_historian":{"name":"지식 탐구자"},
+		"uaf_commodore":{"name":"준장"},
+		
+		# Special Neukos
+		"uaf_keycard_shop_title":{"name":"왕세녀 모델 네코"},
+		"uaf_neuko_combat":{"name":"전투형 모델 네코"},
+	},
+	
+	"posts":{
+		# Queen
+		"uaf_queen_of_yuria":{"name":"유리아 여왕"},
+		# Robo Queen
+		"uaf_artificial_queen":{"name":"기계 여왕"},
+		# Administrator
+		"uaf_auroran_administrator":{"name":"오로라 행정관"},
+		# Misc
+		"uaf_captain_yamazaki":{"name":"선장"},
+		"uaf_pilot_yimie":{"name":"중위"},
+		"uaf_researcher":{"name":"오로라 연구원"},
+		"uaf_admiral_solvy":{"name":"명예 제독"},
+		"uaf_admiral":{"name":"제독"},
+        "uaf_rear_admiral":{"name":"해군 소장"},
+		"uaf_vice_admiral":{"name":"해군 중장"},
+		"uaf_historian":{"name":"행정관"},
+		"uaf_commodore":{"name":"준장"},
+		
+		# Special Neukos
+		"uaf_keycard_shop_title":{"name":"Special Economics Zone Gatekeeper / Narumi Bar Owner"},
+		"uaf_neuko_combat":{"name":"Combat Type Neuko"},
+	},
+}

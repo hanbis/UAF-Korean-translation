@@ -1,0 +1,49 @@
+{
+    "uaf_strings":{
+        "uaf_aceAggressorLv1":"전투기에 대한 피해량 60% 증가, 함선에 대한 피해량 10% 증가",
+        "uaf_aceAggressorLv2":"전투기 정확도 100% 증가, 기동성 30% 증가",
+        "uaf_aceAggressorLv1_ship":"전투기 재보급 시간 20% 감소",
+        "uaf_advancedSupportLv1":"미사일과 전투기에 대한 전투기 피해량 30% 증가, 함선에 대한 피해량 5% 증가",
+        "uaf_advancedSupportLv2":"조각 방어력 20% 증가, 최대 속도 30% 증가",
+        "uaf_advancedSupportLv1_ship":"전투기 재보급 시간 20% 증가"
+    },
+    "nex_invasion2":{
+        "uaf_nuke_resultDisrupt":"거대한 버섯구름이 나타나고, 산업이 마비되었다: %s",
+        "ability_uaf_nuke_noMember":"이세노리아 사용 불가",
+        "ability_uaf_nuke_noMOAB":"라플레시아가 폭격을 시작하려면 최소 4개의 MOAB를 휴대해야 합니다.",
+		"ability_uaf_nuke_prevented":"공격 차단됨",
+		"ability_uaf_nuke_tooltip":"라플레시아를 이세노리아의 선착장에서 출항시켜 대규모 지상 기반 핵무기를 운반합니다.",
+		"ability_uaf_nuke_tooltip2":"적 존재가 있는 모든 산업에 %s 번의 공격을 %s 의 피해로 분산시킵니다. 피해는 $market의 드롭 어트리션 %s 로 감소하고, 잠재적인 아군 화력으로 인해 진행 중인 전투가 있을 경우 추가로 %s 로 감소합니다. 대상에 지상 방어 시스템과 중형 배터리가 설치되어 있다면, 폭격의 효과를 추가로 %s 로 감소시킵니다.",
+		"ability_uaf_nuke_tooltip3":"핵이 방출한 거대한 에너지는 산업의 큰 부분을 평준화할 만큼 충분합니다.",
+		"ability_uaf_nuke_tooltip4":"선택된 이세노리아는 이 공격을 수행하기 위해 %s CR을 소모할 것입니다. 지상 방어 시스템이 존재한다면, 사용되는 CR은 %s 로 증가하고, 중형 배터리가 발견되면 %s 로 증가할 것입니다.",
+        "ability_bombard_divert_result1":"미션 중, 폭격기는 %s 으로 편입되어 각 산업에 %s 의 피해를 입혔고, 적들 %s 명에게도 피해를 입혔습니다.",
+        "uaf_nuke_divert_resultDisrupt":"모든 산업은 교전에 휘말려 %s 에 의해 방해받았습니다.",
+    
+        "uaf_atmosphericBombardment_blurb":"선택된 행성 산업을 향해 궤도 폭격의 힘을 소환합니다. 폭격에 참가하는 각 대기 가능 함선당 1개의 대기 가능 탄약이 소모됩니다.",
+        "uaf_atmosphericBombardment_tooltip":"폭격은 참가하는 함선의 하우스 사이즈에 따라 피해를 입힙니다. 클래스가 클수록 더 큰 파괴를 초래하며, 가할 수 있는 피해는 %s/%s/%s/%s이며, 함선당 %s 탄약을 소모하고 %s 일 동안 방해를 초래합니다.",
+        "ability_uafAtmosphericBombardment_noMembers":"대기 가능 함선 없음",
+        "ability_uafAtmosphericBombardment_enemyPresence":"대규모 적 존재 감지",
+        "ability_uafAtmoshpericBombardment_prevented":"폭격은 적에 의해 금지됩니다",
+        "ability_uafAtmosphericBombardment_noMunition":"함대가 대기 탄약을 소진했습니다",
+        "uaf_atmosphericBombardment_result1":"%s 선박은 해당 산업에 %s만큼의 피해를 입혔습니다.",
+        "uaf_atmosphericBombardment_result2":"%s 에 의해 산업에 가해진 방해는 %s 일입니다.",
+
+        "uaf_rogueLanding_blurb":"스나미(MP)와 마치 APA 2대는 적의 영공에 낙하하는 대담한 상륙 작전을 수행할 것입니다. 이들은 근접 항공 지원을 제공하는 한편, 모든 대공 화력을 자신들에게 집중시킴으로써 아군의 소중한 지상 병력을 적의 공격으로부터 보호할 것입니다.",
+        "uaf_rogueLanding_tooltip":"이 작전으로 %s 만큼의 대기권용 탄약이 소모되었고, 함선의 전투 준비도(CR)는 %s 만큼 감소했습니다. 행성에 적의 대공 방어 체계가 남아 있다면 함선이 추가로 손상될 수 있습니다. 전반적으로, 이번 작전은 지상군의 사기를 %s 만큼 높여줄 것입니다.",
+        "ability_uafRogueLanding_noMembers":"작전을 실행하는 데 필요한 함선이 없습니다.",
+        "ability_uafRogueLanding_noMunition":"함대가 대기 탄약을 소진했습니다.",
+        "uaf_rogueLanding_resultBonusDamage":"작전은 %s 피해를 %s 산업에 가했습니다.",
+        "uaf_rogueLanding_resultMoraleBoost":"스나미와 마치 APA의 출현은 지상군의 사기를 %s 만큼 높여주었습니다.",
+        "uaf_rogueLanding_resultLostShip":"불행히도, 일부 함선은 대담한 작전 중 손실되었으며 회복할 수 없습니다.",
+
+
+        "uaf_sirenSong_result1":"세이렌의 노래는 선택된 산업에 %s 의 피해를 입히고, %s 만큼 해당 산업을 방해합니다.",
+        "uaf_sirenSong_result2":"세이렌의 노래는 선택된 산업에 %s 의 피해를 입혔습니다.",
+        "ability_sirenSong_intro":"퍼셀리라를 소환하여 적의 방공망에 정확한 미사일 공격을 개시하고, 이를 통해 다른 상륙 작전을 위한 발판을 마련하십시오.",
+        "ability_sirenSong_tooltip2":"적군이 주둔한 모든 대공 방어 시설에 각각 %s 의 피해를 주는 미사일 폭격을 가합니다. 피해량은 $market 의 소모율인 %s 만큼 감소합니다.",
+        "ability_sirenSong_tooltip4":"선택된 퍼셀리라에 대한 운영 비용은 %s CR입니다.",
+        "uaf_sirenSong_noMember":"퍼셀리라가 함대에 존재하지 않음.",
+        "uaf_sirenSong_enemyPresence":"대규모 적 존재 감지",
+        "uaf_sirenSong_noAmmo":"함대가 대기 탄약을 소진했습니다."
+    }
+}

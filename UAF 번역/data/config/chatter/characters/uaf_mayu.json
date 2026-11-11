@@ -1,0 +1,79 @@
+{
+	"name":"Mei Yu",
+	"personalities":["steady"],
+	"gender":["f"],
+	"chance":0,
+	"talkativeness":1,
+	"categoryTags":["original"],
+	
+	"lines":{
+		"start":[
+			{"text":"메인 시스템, 전투 모드 가동."},
+			{"text":"제가 조종합니다."},
+			{"text":"전투 모드 활성화."},
+			{"text":"조금만 더 힘내보죠!"}, 
+			{"text":"가요, 빨리 해치우자고요."},
+		],
+		"start_boss":[
+			{"text":"An over glorified trash is still trash."},
+			{"text":"Let's tear them apart, captain."},#놈들을 박살 내버립시다, 지휘관.
+			{"text":"Fascinating... I wonder how bright they will burn."},
+		],
+		"retreat":[
+			{"text":"Ah, I get to go home first... lucky me."},
+			{"text":"A retreat order? Understood."},
+		],
+		"out_of_missiles":[
+			{"text":"Missile ordnance empty? Shame, I could use more."},
+			{"text":"Missile racks are now empty. Sad, I want to bury them with it."},
+		],
+		"need_help":[
+			{"text":"Captain, please provide assistance."},
+			{"text":"I need your help, captain."},
+		],
+		"engaged":[
+			{"text":"Poor thing... is there any point in doing this?"},
+			{"text":"Surely you long for the repose of death?"},
+			{"text":"Be dyed in black, and quickly rot in obscurity."},
+			{"text":"Is there any meaning to that life of yours?"},
+			{"text":"I'll start with you. Die!"},
+		],
+		"pursuing":[
+			{"text":"I won't let you go."},#널 보내주지 않을 거야.
+			{"text":"Worry not, your suffering will be over."}, #걱정하지 마세요, 당신의 고통은 끝날 것입니다.
+			{"text":"Running away is futile. It is your fate to perish here."}, #도망치는 건 소용없다. 여기서 죽는 것이 네 운명이다.
+			{"text":"Run... if you can, that is.."},#도망쳐... 만약 도망칠 수 있다면 말이지...
+		],
+		"running":[
+			{"text":"I've no intention of stopping here."},#여기서 멈출 생각은 없습니다.
+			{"text":"What an irritating lot..."},#정말 짜증스러운 작자들이군...
+			{"text":"Still putting up a fight...?!"},#아직도 저항하는 건가...?!
+		],
+		"hull_90":[
+			{"text":"Oh my, a hull breach."},#이런, 선체에 구멍이 뚫렸군요.
+			{"text":"So I have erred in my calculations..."},#그러까 제 계산에 착오가 있었던 모양이군요...
+		],
+		"hull_50":[
+			{"text":"The hull has sustained considerable damage."},#선체가 상당한 손상을 입었습니다.
+			{"text":"I wonder if I can still draw out more efficiency..."},
+		],
+		"hull_30":[
+			{"text":"어... 불규칙적인 부분이 너무 많잖아..."},
+			{"text":"에헤헤헤... 하하하... 아하하하하하!"},
+		],
+		"overload":[
+			{"text":"Flux capacitors overloaded."},
+			{"text":"Oh my, this is quite troublesome."},
+		],
+		"death":[
+			{"text":"상심하는 건 지휘관님의 몫이고, 실패는 저희의 특권입니다."},
+			{"text":"Ah, the sweet release of death. I wonder what lies beyond..."}, #아, 죽음이 주는 달콤한 해방감이여. 그 너머에는 과연 무엇이 있을까...
+			{"text":"전 금방 돌아올 테니까, 지휘관 외로워하지 마세요."},
+		],
+		"victory":[
+			{"text":"단두대처럼 깔끔하고 시원한 전술이었네요."},
+			{"text":"임무 종료. The crushed dreams of the powerless. Pitiful, isn't it?"},
+			{"text":"이제야 끝났군요. 이번에는 좀 더 곁에 오래 있게 해주세요."},
+		],
+	}
+}

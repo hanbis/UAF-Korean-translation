@@ -1,0 +1,50 @@
+id,name,order,tier,reqPoints,reqPointsPerExtraSkill,description,author,combat officer,admiral,admin,tags,icon
+#UAF,,,,,,,,,,,,
+uaf_aceAggressor,에이스 강습 전술,10000,0,,,가장 뛰어난 공격이란 적이 반격할 엄두조차 내지 못할 만큼 깊숙이 파고들어 강력한 일격을 가하는 것입니다.,"Yimie, self-proclaimed ace pilot",TRUE,TRUE,,"npc_only, deprecated",graphics/icons/skills/uaf_ace_aggressor.png
+uaf_advancedSupport,첨단 지원 교리,10001,0,,,"해군 항공대 조종사는 해군이 보유할 수 있는 가장 가치 있고 대체 불가능한 전력 중 하나입니다. 그 존재 자체를 다른 것으로 대신할 수 없는 만큼, 생존 가능성을 최대한 높이려면 조종사 개인의 안전과 탑승 기체의 내구성을 우선해야 합니다.","Captain Mizuki, Former Air Chief",TRUE,TRUE,,"npc_only, deprecated",graphics/icons/skills/uaf_advanced_support.png
+,,,,,,,,,,,,
+#Solvernia,,,,,,,,,,,,
+uaf_mainFleetPresence,여왕의 결사자,10002,0,,,"우리가 이 냉혹한 Sector에서 아직까지 살아남을 수 있었던 건 오직 여왕 폐하께서 우리를 절대적으로 신뢰하시기 때문입니다. 감히 폐하께 위해를 가하려는 자가 있다면, 내 손에 들린 핵의 심판을 받게 될 것입니다. 내 말을 명심하십시오!","Solvernia, Her Majesty's Royal Honor Guard, Command Flagship of the 1st November Fleet",TRUE,TRUE,,npc_only,graphics/icons/skills/uaf_queens_resolve.png
+,,,,,,,,,,,,
+#Persephone,,,,,,,,,,,,
+uaf_queensSongstress,여왕의 여가수,10003,0,,,"유도탄이 발사되는 모습을 직접 본 적이 있습니다. 정말이지, 그 광경에는 아름다움마저 깃들어 있더군요.","Persephone Natasya, VAdm, ASOC",TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_queen_songstress.png
+uaf_widowsKiss,과부의 입맞춤,10004,0,,,죽음을 맞이하기 직전의 순간이야말로 인생에서 가장 행복한 순간이라고들 하지요. 그렇다면 제가 베풀 수 있는 모든 행복을 선사하겠습니다.,"Persephone Natasya, VAdm, ASOC",TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_widow_kiss.png
+,,,,,,,,,,,,
+#Mei Yu,,,,,,,,,,,,
+uaf_silverfoxWit,지혜의 은여우,10005,0,,,실수하지 않는 것이야말로 승리를 확신할 수 있는 방법입니다. 이미 패배한 적을 정복하는 것과 다름없으니까요.,"Mei Yu, 'Auroran Researcher'",TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_silverfox.png
+,,,,,,,,,,,,
+#AdminSkilll,,,,,,,,,,,,
+uaf_galactic_historian,은하 역사가,10006,0,,,도메인의 잿더미에서 우리는 교훈을 얻습니다. 깨달음의 유산을 지키는 것이 바로 우리의 책무이기 때문입니다.,"Sophia, Seeker of Knowledge",,,TRUE,"npc_only,deprecated",graphics/icons/skills/uaf_domain_historian.png
+,,,,,,,,,,,,
+#Neuko Cores,,,,,,,,,,,,
+uaf_neuko_automata_naval_core_t1,초급 오토마타 해군 코어,10007,0,,,"코르티잔형 네코는 가장 널리 양산되는 모델로, 대개 일반적인 용도로 운용됩니다.",Neuko Report #1,TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_automata_core_1.png
+uaf_neuko_automata_naval_core_t2,중급 오토마타 해군 코어,10008,0,,,"프린세스형은 이전 모델을 소폭 개량한 기종으로, 주변 개체들의 네트워크 범위를 확장하는 역할을 맡습니다.",Neuko Report #2,TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_automata_core_2.png
+uaf_neuko_automata_naval_core_t3,고급 오토마타 해군 코어,10009,0,,,크라운 프린세스형은 반자율 운용이 가능할 정도로 고도로 발달한 모델입니다. 적절한 개량과 알고리즘만 갖춰 준다면 인간을 손쉽게 흉내 낼 수도 있습니다.,Neuko Report #3,TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_automata_core_3.png
+uaf_neuko_areonautics_spec,항공공학 전문화,10010,0,,,네코들이 등장한 지 몇 사이클이나 됐다고 벌써 멜로디 드라이브에서 출력을 더 끌어내는 방법을 알아냈다. 이 장비를 거의 30사이클이나 연구해 온 나로서는 믿기 힘든 일이군.,"Chief Engineer Gault, overseeing inspection of UAFX Neuxoria",TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_neuko_aeronautics.png
+uaf_neuko_perseverance_drive,불굴 추진기,10011,0,,,적 위협 수준이 예상보다 낮음. 피해 한계치가 허용 범위 내에 있음. 교전 매개변수 수정 중...,Unit 3329 undergoing combat simulations,TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_neuko_perseverence_drive.png
+uaf_neuko_defense_expertise,방어 숙련,10012,0,,,"로봇에게 함선 지휘를 맡긴다고 해서 그렇게 쉽게 격침하기 어려워질 거라고는 생각하지 못했을 겁니다. 하지만 저 녀석들의 비행 방식에는 뭔가 특별한 점이 있어, 장기적인 피해를 입히는 것조차 거의 불가능하더군요.","Captain Ed Coach, overseeing combat simulations with Neuko opponents",TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_neuko_defense_expertise.png
+uaf_neuko_experimental_optimization,시제 최적화,10013,0,,,"그 로봇들이 대체 내 함선에 무슨 짓을 한 건지 모르겠지만, 이렇게 부드럽게 움직이는 건 처음 봤어. 막 조선소에서 출고됐을 때조차 이 정도는 아니었다고!",Performance report on new Neuko-led maintenance procedures,TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_neuko_experimental_optimization.png
+uaf_neuko_weapon_calibration,무장 보정,10014,0,,,성능 시험 종료. 신규 무장 데이터 평가 중... 평가 완료. 다수의 결함 발견. 전체 무장 체계의 재보정을 시작합니다.,Unit 4020 undergoing live fire exercises,TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_neuko_wpn_calibration.png
+uaf_neuko_assault_carrier_tactics,강습 항공모함 전술,10015,0,,,"네코는 인공지능인 만큼 꽤 합리적으로 행동합니다. 그렇다고 저마다 독특한 버릇이 생기지 않는다는 뜻은 아니죠. 한 녀석은 하루 종일 폭격기 조종사들과 어울려 다니더니, 이제는 같은 모델의 다른 개체보다 훨씬 적극적으로 대공 방어망의 빈틈을 파고듭니다.","Lieutenant ""Beetle"" Lennon, 22nd Exoscar Torpedo Bomber Squadron",TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_neuko_assault_carrier.png
+uaf_neuko_support_carrier_tactics,지원 항공모함 전술,10016,0,,,"네코가 선회전에 들어가는 걸 본 적 있습니까? 정말 미끄럽게 움직이는 녀석들이죠. 분명히 잡았다고 생각한 순간, 어느새 기관포를 쏘아 대고 있을 겁니다.","Lieutenant ""Aero"" Smith, 6th Super Aria Fighter Squadron",TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_neuko_support_carrier.png
+uaf_neuko_interception_protocol,요격 프로토콜,10017,0,,,미확인 접촉 감지. 위협 평가를 시작합니다… 평가 완료. 접근 중인 미사일과 폭격기를 우선적으로 요격하십시오. 함대 전체를 최대한 엄호할 수 있도록 대형을 유지하십시오.,"Unit 84907, at contact with pirates on patrol",TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_neuko_interception_protocol.png
+uaf_neuko_command_and_control_integration,지휘통제 통합,10018,0,,,전투정보실(CIC)은 정보를 수집하고 현재 상황에 맞춰 전투 계획을 조정하는 인원들로 가득합니다. 네코를 도입한 뒤로 전투 수행 능력이 크게 향상됐습니다. 이제 전장이 변하는 상황도 1초가 채 되기 전에 파악할 수 있죠.,"Admiral Steiner, On Utilizing Artificial Intelligence",TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_neuko_command_control.png
+uaf_neuko_november_adaptation_module,노멤버 적응 모듈,10019,0,,,네코의 효율은 아무리 강조해도 지나치지 않습니다. 네코를 함대 운용에 통합하는 방법을 익힌다면 함대 전체에 엄청난 이득을 가져다줄 수 있습니다.,"Admiral Steiner, On Utilizing Artificial Intelligence",TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_neuko_november_module.png
+uaf_neuko_predictive_algorithms,예측 알고리즘,10020,0,,,사람들은 네코가 홍등가의 술 취한 사람들을 예측해 온 지 오래됐다는 사실을 자주 잊는 것 같습니다. 비행 경로나 탄도 궤적을 예측하는 일은 술에 취한 도박꾼을 맞히는 것보다 훨씬 쉽죠.,"Chief Roy Tibbs, 2nd turret gun captain on UAFS Typhoon",TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_neuko_predictive_algorithms.png
+uaf_neuko_electronic_warfare_suite,전자전 체계,10021,0,,,"네코는 군집 지성체이므로 전체 네트워크가 마비되는 사태를 막기 위해 전자전 공격에 극도로 강한 내성을 갖춰야 합니다. 무엇을 방어해야 하는지 잘 알고 있다는 건, 공격적인 전자전에서도 네코가 상당히 위협적이라는 뜻이기도 하죠.","Admiral Steiner, On Utilizing Artificial Intelligence",TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_neuko_electronic_warfare.png
+uaf_neuko_automata_hunter_killer_suite,오토마타 헌터킬러 체계,10022,0,,,자동화 함선을 무력화하는 것은 그런 적을 상대하는 가장 효과적인 방법 중 하나입니다. 그런데 네코에게는 자동화 함선을 산산조각 내기 위한 절차가 여럿 마련되어 있죠. 자세한 사정을 모른다면 개인적인 원한이라도 있는 줄 알겠습니다...,Comment on after-action report against automated ships,TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_neuko_automata_hunter_killer.png
+uaf_neuko_alternative_plan,대체 계획안,10023,0,,,"오토마타 함선은 유리 대포와 같습니다. 하지만 이를 불안하게 여기는 함장들도 있어서, 플럭스 회로 몇 개를 뜯어내고 속도가 조금 느려지는 걸 감수하면서까지 장갑을 추가하곤 합니다.",Engineering report justifying modifications made to UAFX Nevermore,TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_neuko_alternative_plan.png
+uaf_neuko_reserve_logistics,예비 병참망,10024,0,,,"파보니우스 놈들을 어떻게 생각하든, 다들 꼭 필요한 부품을 갑자기 어디선가 꺼내 올 때면 그 녀석들이 곁에 있는 걸 반기죠. 맥주 밀수 이야기는 꺼내지도 마십시오.","Lieutenant Dwyer, Supply Officer aboard UAFS Heiter",TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_neuko_reserve_logistics.png
+,,,,,,,,,,,,
+#Black Sorceress Neuko,,,,,,,,,,,,
+uaf_neuko_automata_black_sorceress_core,왕세녀 네코 코어 II,10007,0,,,소서리스 코어는 크라운 프린세스형을 개량한 시험형 모델입니다. 동명의 전투순양함을 운용하기 위해 단 두 기만 제작되었습니다.,Neuko Report #4,TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_automata_core_black_sorceress.png
+,,,,,,,,,,,,
+#Empress Neuko,,,,,,,,,,,,
+uaf_neuko_automata_empress_core,황녀 네코 코어,10007,0,,,"엠프레스형 네코는 오로라 공학 기술의 최첨단을 달리는 모델로, 정체가 베일에 싸인 원본에 버금가는 수준입니다.",Neuko Report #5,TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_automata_core_empress.png
+uaf_neuko_empress_empirical_oversight,실증적 감독관,10008,0,,,"가끔은 엠프레스가 '모함'으로서의 역할을 조금 지나치게 진지하게 받아들이는 것 같다는 생각이 듭니다. 그래도 어린 개체들을 무사히 데려오기만 한다면, 가끔은 아이들에게 조금 엄격하게 대하는 것도 나쁘지 않겠지요.","AER-1A, Evaluation of Novaeria's flight procedures",TRUE,,,"npc_only, deprecated",graphics/icons/skills/uaf_empirical_oversight.png
+,,,,,,,,,,,,
+#Mimic,,,,,,,,,,,,
+uaf_mimic,???,10030,0,,,???,???,,TRUE,,"npc_only, deprecated",graphics/icons/skills/technology.png
+,,,,,,,,,,,,
+#Aptitude,,,,,,,,,,,,
+uaf_aptitude_special,UAF 특수 스킬,8,0,,,통합 오로라 연방 고유 스킬.,,,,,"npc_only, deprecated",graphics/faction/flags/unused/aurora.png

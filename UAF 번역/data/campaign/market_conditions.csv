@@ -1,0 +1,40 @@
+name,id,planetary,decivRemove,script,desc,icon,order
+핵심 행정세,uaf_tax,FALSE,FALSE,data.econ.conditions.uaf_favonius_tax,오로라의 수도 행성인 뉴 오로라는 페르세안 섹터에 고립된 동안 자금을 유지하기 위해 파보니우스의 강력한 경제에 부분적으로 의존하고 있습니다.,graphics/faction/flags/uaf_auroran_main_crest.png,1000
+핵심 행정세,uaf_tax_reciver,FALSE,FALSE,data.econ.conditions.uaf_aurora_tax_recivier,오로라의 수도 행성인 뉴 오로라는 페르세안 섹터에 고립된 동안 자금을 유지하기 위해 파보니우스의 강력한 경제에 부분적으로 의존하고 있습니다.,graphics/faction/flags/uaf_auroran_main_crest.png,1000
+,,,,,,,
+,,,,,,,
+,,,,,,,
+복원된 폐허,uaf_heavy_industry_bonus,FALSE,TRUE,data.econ.conditions.uaf_ruin_results.UafHeavyIndustryBonus,"옛 모습을 되찾은 듯한 이곳은, 복구된 유통망과 임시 통신탑이 경제 중심지로 탈바꿈하면서 공장들이 들어서고 있다. 탄탄한 네트워크 덕분에 원활한 소통이 가능해졌고, 재건된 착륙장과 부두는 상업 활동을 촉진한다. 이곳은 다시 한번 지역 문명의 번창하는 무역 중심지가 되었다.",graphics/icons/markets/uaf_res_ruins_widespread.png,1100
+복원된 폐허,uaf_accessibility_bonus_small,FALSE,TRUE,data.econ.conditions.uaf_ruin_results.UafAccessibilityBonusSmall,"옛 모습을 되찾은 듯한 이곳은, 복구된 유통망과 임시 통신탑이 경제 중심지로 탈바꿈하면서 공장들이 들어서고 있다. 탄탄한 네트워크 덕분에 원활한 소통이 가능해졌고, 재건된 착륙장과 부두는 상업 활동을 촉진한다. 이곳은 다시 한번 지역 문명의 번창하는 무역 중심지가 되었다.",graphics/icons/markets/uaf_res_ruins_widespread.png,1100
+복원된 폐허,uaf_stability_small,FALSE,TRUE,data.econ.conditions.uaf_ruin_results.UafStabilitySmall,"옛 모습을 되찾은 듯한 이곳은, 복구된 유통망과 임시 통신탑이 경제 중심지로 탈바꿈하면서 공장들이 들어서고 있다. 탄탄한 네트워크 덕분에 원활한 소통이 가능해졌고, 재건된 착륙장과 부두는 상업 활동을 촉진한다. 이곳은 다시 한번 지역 문명의 번창하는 무역 중심지가 되었다.",graphics/icons/markets/uaf_res_ruins_widespread.png,1100
+복원된 폐허,uaf_small_fleet,FALSE,TRUE,data.econ.conditions.uaf_ruin_results.UafSmallFleet,"옛 모습을 되찾은 듯한 이곳은, 복구된 유통망과 임시 통신탑이 경제 중심지로 탈바꿈하면서 공장들이 들어서고 있다. 탄탄한 네트워크 덕분에 원활한 소통이 가능해졌고, 재건된 착륙장과 부두는 상업 활동을 촉진한다. 이곳은 다시 한번 지역 문명의 번창하는 무역 중심지가 되었다.",graphics/icons/markets/uaf_res_ruins_widespread.png,1100
+복원된 폐허,uaf_terraform_eq,FALSE,TRUE,data.econ.conditions.uaf_ruin_results.UafTerraformEq,"옛 모습을 되찾은 듯한 이곳은, 복구된 유통망과 임시 통신탑이 경제 중심지로 탈바꿈하면서 공장들이 들어서고 있다. 탄탄한 네트워크 덕분에 원활한 소통이 가능해졌고, 재건된 착륙장과 부두는 상업 활동을 촉진한다. 이곳은 다시 한번 지역 문명의 번창하는 무역 중심지가 되었다.",graphics/icons/markets/uaf_res_ruins_widespread.png,1100
+복원된 폐허,uaf_gamma_core_facility,FALSE,TRUE,data.econ.conditions.uaf_ruin_results.UafGammaCoreFacility,"옛 모습을 되찾은 듯한 이곳은, 복구된 유통망과 임시 통신탑이 경제 중심지로 탈바꿈하면서 공장들이 들어서고 있다. 탄탄한 네트워크 덕분에 원활한 소통이 가능해졌고, 재건된 착륙장과 부두는 상업 활동을 촉진한다. 이곳은 다시 한번 지역 문명의 번창하는 무역 중심지가 되었다.",graphics/icons/markets/uaf_res_ruins_widespread.png,1100
+,,,,,,,
+복원된 폐허,uaf_all_industry,FALSE,TRUE,data.econ.conditions.uaf_ruin_results.UafAllIndustry,"새롭게 단장된 제조 구역들은 건져 올린 유물들과 오랜 시간 공들여 얻은 지식으로 인해 으르렁거린다. 오랫동안 방치되어 있던 복잡한 컴퓨터 시스템들이 희미하게나마 다시 작동하기 시작하며, 이 구역 자체의 거대한 유기체에 더해진다. 한때 주인이 버리고 갔던 무기고와 우주항들은 페르세안 섹터의 어둠 속에서 새로운 안식처를 제공한다.",graphics/icons/markets/uaf_res_ruins_extensive.png,1100
+복원된 폐허,uaf_all_industry_upkeep,FALSE,TRUE,data.econ.conditions.uaf_ruin_results.UafAllIndustryUpkeep,"새롭게 단장된 제조 구역들은 건져 올린 유물들과 오랜 시간 공들여 얻은 지식으로 인해 으르렁거린다. 오랫동안 방치되어 있던 복잡한 컴퓨터 시스템들이 희미하게나마 다시 작동하기 시작하며, 이 구역 자체의 거대한 유기체에 더해진다. 한때 주인이 버리고 갔던 무기고와 우주항들은 페르세안 섹터의 어둠 속에서 새로운 안식처를 제공한다.",graphics/icons/markets/uaf_res_ruins_extensive.png,1100
+복원된 폐허,uaf_size_fleet_bonus,FALSE,TRUE,data.econ.conditions.uaf_ruin_results.UafSizeFleetBonus,"새롭게 단장된 제조 구역들은 건져 올린 유물들과 오랜 시간 공들여 얻은 지식으로 인해 으르렁거린다. 오랫동안 방치되어 있던 복잡한 컴퓨터 시스템들이 희미하게나마 다시 작동하기 시작하며, 이 구역 자체의 거대한 유기체에 더해진다. 한때 주인이 버리고 갔던 무기고와 우주항들은 페르세안 섹터의 어둠 속에서 새로운 안식처를 제공한다.",graphics/icons/markets/uaf_res_ruins_extensive.png,1100
+복원된 폐허,uaf_abandoned_military_base,FALSE,TRUE,data.econ.conditions.uaf_ruin_results.UafAbandonedMilitaryBase,"새롭게 단장된 제조 구역들은 건져 올린 유물들과 오랜 시간 공들여 얻은 지식으로 인해 으르렁거린다. 오랫동안 방치되어 있던 복잡한 컴퓨터 시스템들이 희미하게나마 다시 작동하기 시작하며, 이 구역 자체의 거대한 유기체에 더해진다. 한때 주인이 버리고 갔던 무기고와 우주항들은 페르세안 섹터의 어둠 속에서 새로운 안식처를 제공한다.",graphics/icons/markets/uaf_res_ruins_extensive.png,1100
+복원된 폐허,uaf_beta_core_facility,FALSE,TRUE,data.econ.conditions.uaf_ruin_results.UafBetaCoreFacility,"새롭게 단장된 제조 구역들은 건져 올린 유물들과 오랜 시간 공들여 얻은 지식으로 인해 으르렁거린다. 오랫동안 방치되어 있던 복잡한 컴퓨터 시스템들이 희미하게나마 다시 작동하기 시작하며, 이 구역 자체의 거대한 유기체에 더해진다. 한때 주인이 버리고 갔던 무기고와 우주항들은 페르세안 섹터의 어둠 속에서 새로운 안식처를 제공한다.",graphics/icons/markets/uaf_res_ruins_extensive.png,1100
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+복원된 폐허,uaf_black_site,FALSE,TRUE,data.econ.conditions.uaf_ruin_results.UafBlackSite,"거대한 산업 단지들은 생명력으로 가득 차 굉음을 내며, 엄청난 양의 정제된 원자재와 완제품을 생산해내고, 이 제품들은 광대한 유통망을 통해 미지의 목적지로 향한다. 그러나 그보다 더 거대한 것은 한때 파괴되었던 수많은 격리실들로 가득 찬, 솟아오른 거대한 연구소들이다. 이곳은 호기심 많은 자들에게 유전학과 생물학 분야를 탐구할 기회를 제공한다. 지하 깊숙한 곳, 세라메탈, 마그레일 라인, 그리고 천연 및 합성 암석층 아래에는 비밀 시설들이 도메인 시대의 비전적 지식을 기밀 문서와 연구 자료 속에 숨기고 있다. 해방된 그들의 힘은 다시 한번 모습을 드러낸다.",graphics/icons/markets/uaf_res_ruins_vast.png,1100
+복원된 폐허,uaf_industry_potential,FALSE,TRUE,data.econ.conditions.uaf_ruin_results.UafIndustryPotential,"거대한 산업 단지들은 생명력으로 가득 차 굉음을 내며, 엄청난 양의 정제된 원자재와 완제품을 생산해내고, 이 제품들은 광대한 유통망을 통해 미지의 목적지로 향한다. 그러나 그보다 더 거대한 것은 한때 파괴되었던 수많은 격리실들로 가득 찬, 솟아오른 거대한 연구소들이다. 이곳은 호기심 많은 자들에게 유전학과 생물학 분야를 탐구할 기회를 제공한다. 지하 깊숙한 곳, 세라메탈, 마그레일 라인, 그리고 천연 및 합성 암석층 아래에는 비밀 시설들이 도메인 시대의 비전적 지식을 기밀 문서와 연구 자료 속에 숨기고 있다. 해방된 그들의 힘은 다시 한번 모습을 드러낸다.",graphics/icons/markets/uaf_res_ruins_vast.png,1100
+복원된 폐허,uaf_dormant_systems,FALSE,TRUE,data.econ.conditions.uaf_ruin_results.UafDormantSystems,"거대한 산업 단지들은 생명력으로 가득 차 굉음을 내며, 엄청난 양의 정제된 원자재와 완제품을 생산해내고, 이 제품들은 광대한 유통망을 통해 미지의 목적지로 향한다. 그러나 그보다 더 거대한 것은 한때 파괴되었던 수많은 격리실들로 가득 찬, 솟아오른 거대한 연구소들이다. 이곳은 호기심 많은 자들에게 유전학과 생물학 분야를 탐구할 기회를 제공한다. 지하 깊숙한 곳, 세라메탈, 마그레일 라인, 그리고 천연 및 합성 암석층 아래에는 비밀 시설들이 도메인 시대의 비전적 지식을 기밀 문서와 연구 자료 속에 숨기고 있다. 해방된 그들의 힘은 다시 한번 모습을 드러낸다.",graphics/icons/markets/uaf_res_ruins_vast.png,1100
+,,,,,,,
+복원된 폐허,uaf_organ_production,FALSE,TRUE,data.econ.conditions.uaf_ruin_results.UafOrganProduction,"거대한 산업 단지들은 생명력으로 가득 차 굉음을 내며, 엄청난 양의 정제된 원자재와 완제품을 생산해내고, 이 제품들은 광대한 유통망을 통해 미지의 목적지로 향한다. 그러나 그보다 더 거대한 것은 한때 파괴되었던 수많은 격리실들로 가득 찬, 솟아오른 거대한 연구소들이다. 이곳은 호기심 많은 자들에게 유전학과 생물학 분야를 탐구할 기회를 제공한다. 지하 깊숙한 곳, 세라메탈, 마그레일 라인, 그리고 천연 및 합성 암석층 아래에는 비밀 시설들이 도메인 시대의 비전적 지식을 기밀 문서와 연구 자료 속에 숨기고 있다. 해방된 그들의 힘은 다시 한번 모습을 드러낸다.",graphics/icons/markets/uaf_res_ruins_vast.png,1100
+복원된 폐허,uaf_advanced_infrastructure,FALSE,TRUE,data.econ.conditions.uaf_ruin_results.UafAdvancedInfrastructure,"거대한 산업 단지들은 생명력으로 가득 차 굉음을 내며, 엄청난 양의 정제된 원자재와 완제품을 생산해내고, 이 제품들은 광대한 유통망을 통해 미지의 목적지로 향한다. 그러나 그보다 더 거대한 것은 한때 파괴되었던 수많은 격리실들로 가득 찬, 솟아오른 거대한 연구소들이다. 이곳은 호기심 많은 자들에게 유전학과 생물학 분야를 탐구할 기회를 제공한다. 지하 깊숙한 곳, 세라메탈, 마그레일 라인, 그리고 천연 및 합성 암석층 아래에는 비밀 시설들이 도메인 시대의 비전적 지식을 기밀 문서와 연구 자료 속에 숨기고 있다. 해방된 그들의 힘은 다시 한번 모습을 드러낸다.",graphics/icons/markets/uaf_res_ruins_vast.png,1100
+복원된 폐허,uaf_emergency_fabricators,FALSE,TRUE,data.econ.conditions.uaf_ruin_results.UAFEmergencyFabricators,"거대한 산업 단지들은 생명력으로 가득 차 굉음을 내며, 엄청난 양의 정제된 원자재와 완제품을 생산해내고, 이 제품들은 광대한 유통망을 통해 미지의 목적지로 향한다. 그러나 그보다 더 거대한 것은 한때 파괴되었던 수많은 격리실들로 가득 찬, 솟아오른 거대한 연구소들이다. 이곳은 호기심 많은 자들에게 유전학과 생물학 분야를 탐구할 기회를 제공한다. 지하 깊숙한 곳, 세라메탈, 마그레일 라인, 그리고 천연 및 합성 암석층 아래에는 비밀 시설들이 도메인 시대의 비전적 지식을 기밀 문서와 연구 자료 속에 숨기고 있다. 해방된 그들의 힘은 다시 한번 모습을 드러낸다.",graphics/icons/markets/uaf_res_ruins_vast.png,1100
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+소형 복원 프로젝트,uaf_ruins_restoration_widespread,FALSE,TRUE,data.econ.conditions.UafRuinsRestoration,24시간 내내 수많은 노동자들이 이 지역에서 묵묵히 자신의 임무를 수행하고 있다. 엔지니어들은 유적의 숨겨진 목적을 재발견하기 위해 과거 시대의 유물을 복원하려 애쓰고 있다. 지식에 눈이 먼 연구자들은 오랫동안 잊혀진 비밀을 밝히기를 희망하며 작업에 매진한다. 이 거대한 죽은 도시 아래에는 어떤 공포가 기다리고 있을까? 그리고 그 복원에는 어떤 영광이 기다리고 있을까?,graphics/icons/markets/uaf_res_ruins_widespread.png,1200
+중형 복원 프로젝트,uaf_ruins_restoration_extensive,FALSE,TRUE,data.econ.conditions.UafRuinsRestoration,24시간 내내 수많은 노동자들이 이 지역에서 묵묵히 자신의 임무를 수행하고 있다. 엔지니어들은 유적의 숨겨진 목적을 재발견하기 위해 과거 시대의 유물을 복원하려 애쓰고 있다. 지식에 눈이 먼 연구자들은 오랫동안 잊혀진 비밀을 밝히기를 희망하며 작업에 매진한다. 이 거대한 죽은 도시 아래에는 어떤 공포가 기다리고 있을까? 그리고 그 복원에는 어떤 영광이 기다리고 있을까?,graphics/icons/markets/uaf_res_ruins_extensive.png,1200
+대형 복원 프로젝트,uaf_ruins_restoration_vast,FALSE,TRUE,data.econ.conditions.UafRuinsRestoration,24시간 내내 수많은 노동자들이 이 지역에서 묵묵히 자신의 임무를 수행하고 있다. 엔지니어들은 유적의 숨겨진 목적을 재발견하기 위해 과거 시대의 유물을 복원하려 애쓰고 있다. 지식에 눈이 먼 연구자들은 오랫동안 잊혀진 비밀을 밝히기를 희망하며 작업에 매진한다. 이 거대한 죽은 도시 아래에는 어떤 공포가 기다리고 있을까? 그리고 그 복원에는 어떤 영광이 기다리고 있을까?,graphics/icons/markets/uaf_res_ruins_vast.png,1200
