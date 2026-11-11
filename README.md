@@ -17,3 +17,4 @@ https://github.com/hanbis/UAF-Korean-translation/releases
 # Included
 
 United Aurora Federation 모드 번역 파일
+선행 모드로 Korean Display Hook 또는 한글 임시 패치을 요구함니다.
