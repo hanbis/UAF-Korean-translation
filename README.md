@@ -17,6 +17,3 @@ https://github.com/hanbis/UAF-Korean-translation/releases
 # Included
 
 United Aurora Federation 모드 번역 파일
-
-# Version
-
